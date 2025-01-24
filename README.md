@@ -1,7 +1,5 @@
 # 👨‍💻 MEAN Stack Developer | Angular, MongoDB, Express.js, Node.js
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile) <!-- Replace with a custom banner -->
-
 ## 🌟 About Me
 
 Hi there! I'm a passionate **MEAN Stack Developer** with a knack for building robust, scalable, and user-friendly web applications. I specialize in **Angular**, **MongoDB**, **Express.js**, and **Node.js** to deliver end-to-end solutions.
@@ -37,22 +35,21 @@ A global shipment booking application built to streamline logistics and improve 
   - Real-time shipment tracking
   - Intuitive booking interface
   - Integration with third-party APIs
-- ![Project Screenshot](https://via.placeholder.com/600x300.png?text=Project+1+Screenshot)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravindra-Sarode&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindra-Sarode&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ravindra-sarode-92923617b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saroderavindra95@gmail.com)
 
 ---
 
@@ -62,5 +59,4 @@ A global shipment booking application built to streamline logistics and improve 
 - 🌍 I love collaborating with developers worldwide!
 
 ---
-
-![Thank You](https://via.placeholder.com/1200x200.png?text=Thank+You+for+Visiting+My+Profile!)
+Thank You!!
