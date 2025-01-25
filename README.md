@@ -1,4 +1,4 @@
-# 👨‍💻 MEAN Stack Developer | Angular, MongoDB, Express.js, Node.js
+# 👋 Hi, I'm [Ravindra Sarode] | MEAN Stack Developer
 
 ## 🌟 About Me
 
