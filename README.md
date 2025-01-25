@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Ravindra Sarode] | MEAN Stack Developer
+# 👋 Hi, I'm Ravindra Sarode| MEAN Stack Developer
 
 ## 🌟 About Me
 
