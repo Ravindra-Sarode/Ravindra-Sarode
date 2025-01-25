@@ -19,9 +19,9 @@ Hi there! I'm a passionate **MEAN Stack Developer** with a knack for building ro
 
 Other Tools I Work With:
 - **Version Control:** Git, GitHub
-- **Deployment Platforms:** Heroku, Vercel, AWS
-- **Collaboration Tools:** Jira, Trello
-- **Testing:** Jasmine, Protractor, Selenium
+- **Deployment Platforms:** Render, Vercel, AWS
+- **Collaboration Tools:** Jira,
+- **Testing:** Postman, Manual, Selenium
 
 ---
 
