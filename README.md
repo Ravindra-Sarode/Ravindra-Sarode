@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ravindra Sarode  
 🚀 **Full Stack Web Developer**
 
-I'm a Full Stack Web Developer with a background in Mechanical Engineering, passionate about creating software solutions that connect technology with human needs.
+I'm a Full Stack Web Developer with a unique background in Mechanical Engineering, passionate about creating software solutions that connect technology with human needs.
 
 ## 💻 Tech Stack  
 **Frontend:** HTML, CSS, JavaScript (ES6+), TypeScript, Angular,     
